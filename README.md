@@ -25,9 +25,6 @@ Hi, I'm **Aman Sethiya** — a passionate **WordPress & Frontend Developer** and
 
 <img src="https://skillicons.dev/icons?i=cpp,,css,,html,,js,,bootstrap,,java,,php,,aws,,netlify,,react,,nodejs,,express,,mongodb,,mysql,,tailwindcss,,figma,,wordpress,,webflow,,git,,github&perline=13" />
 
-
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -37,17 +34,6 @@ Hi, I'm **Aman Sethiya** — a passionate **WordPress & Frontend Developer** and
 ![amansethiya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amansethiya&theme=merko&hide_border=false)
 
 ![amansethiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansethiya&theme=merko&show_icons=true&hide_border=false&layout=compact)
-
----
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=amansethiya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=amansethiya&icon=10&color=0)](https://visitcount.itsvg.in)
 
 ---
 
