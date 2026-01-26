@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
+  
+  **WordPress & Frontend Developer** | 🧑‍💻 **Freelancer** |  Learning **Backend Development**
 
-<!--
-**amansethiya/amansethiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋🏻About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **Aman Sethiya** — a passionate **WordPress & Frontend Developer** and a **Freelancer**.
+
+🎓 Pursuing **BCA (2nd Year)** at **Medi-Caps University, Indore (MP)** <br>
+ Currently learning **Backend Development** to become a **Full Stack Developer**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amansethiyaa)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amansethiyaa)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansethiya.dev@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cpp,,css,,html,,js,,bootstrap,,java,,php,,aws,,netlify,,react,,nodejs,,express,,mongodb,,mysql,,tailwindcss,,figma,,wordpress,,webflow,,git,,github&perline=13" />
+
+
+
+
+---
+
+## 📊 GitHub Stats
+
+![amansethiya's Stats](https://github-readme-stats.vercel.app/api?username=amansethiya&theme=merko&show_icons=true&hide_border=false&count_private=true)
+
+![amansethiya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amansethiya&theme=merko&hide_border=false)
+
+![amansethiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansethiya&theme=merko&show_icons=true&hide_border=false&layout=compact)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=amansethiya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 👀 Profile Views
+[![](https://visitcount.itsvg.in/api?id=amansethiya&icon=10&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 💰 Support Me
+
+If you like my work, you can support me here:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amanguptaaaa)
+
+---
+
+Design with ❤️ by Aman Sethiya
+</div>
