@@ -1,40 +1,99 @@
 <div align="center">
-  
-  **WordPress & Frontend Developer** | 🧑‍💻 **Freelancer** |  Learning **Backend Development**
 
----
+<img src="./assets/terminal.svg" width="100%" alt="Terminal intro: Aman Sethiya, full stack MERN developer" />
 
-## 👋🏻About Me
+<br/>
 
-Hi, I'm **Aman Sethiya** — a passionate **WordPress & Frontend Developer** and a **Freelancer**.
+<a href="https://linkedin.com/in/amansethiyaa"><img src="https://img.shields.io/badge/LinkedIn-connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" /></a>
+<a href="https://x.com/amansethiyaa"><img src="https://img.shields.io/badge/X-follow-bb9af7?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b26" alt="X" /></a>
+<a href="mailto:amansethiya.dev@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-7dcfff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Status-open%20to%20work-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="Open to work" />
 
-🎓 Pursuing **BCA (2nd Year)** at **Medi-Caps University, Indore (MP)** <br>
- Currently learning **Backend Development** to become a **Full Stack Developer**
+</div>
 
----
+<br/>
 
-## 🌐 Connect With Me
+## `~/journey`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amansethiyaa)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amansethiyaa)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansethiya.dev@gmail.com)
+```mermaid
+flowchart LR
+  A["WordPress & Frontend"] --> B["Freelancing"]
+  B --> C["BCA @ Medi-Caps"]
+  C --> D["Full Stack (MERN)"]
+  D --> E["Java + DSA"]
+  E --> F["System Design"]
+  style E fill:#7aa2f7,color:#1a1b26,stroke:#bb9af7,stroke-width:2px
+  style F stroke-dasharray: 5 5
+```
 
----
+## `~/architecture`
 
-## 💻 Tech Stack
+How I build things, end to end:
 
-<img src="https://skillicons.dev/icons?i=cpp,,css,,html,,js,,bootstrap,,java,,php,,aws,,netlify,,react,,nodejs,,express,,mongodb,,mysql,,tailwindcss,,figma,,wordpress,,webflow,,git,,github&perline=13" />
+```mermaid
+flowchart LR
+  subgraph Client
+    A["React"] --- B["Tailwind / Bootstrap"]
+  end
+  subgraph Server
+    C["Node.js"] --- D["Express"]
+  end
+  subgraph Data
+    E[("MongoDB")] --- F[("MySQL")]
+  end
+  Client -->|REST API| Server -->|queries| Data
+```
 
+## `~/focus`
 
----
+```yaml
+status: open_to_work
 
-## 💰 Support Me
+now:
+  - Java + Data Structures & Algorithms
+  - MERN stack projects
+  - Freelance client work
 
-If you like my work, you can support me here:
+next:
+  - System design
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amanguptaaaa)
+open_to:
+  - Internships
+  - Full-time roles
+  - Freelance projects
+```
 
----
+## `~/toolbox`
 
-Design with ❤️ by Aman Sethiya
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,php,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,wordpress,figma,git,github,aws,netlify&perline=10" alt="Tech stack" />
+
+</div>
+
+## `~/stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amansethiyaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansethiyaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=amansethiyaa&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Thanks for stopping by. Let's build something together.");
+    }
+}
+```
+
 </div>
